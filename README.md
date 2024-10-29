@@ -1,16 +1,14 @@
 # nn_faceR
 
-## modeling
+## data collect
 
-#### data collect
+*black*： normal，Blue，Brown，Gray，Yellow
 
-***black***： normal，Blue，Brown，Gray，Yellow
+*bags*: Normal，Mild，Moderate，Severe，Edema
 
-***bags***: Normal，Mild，Moderate，Severe，Edema
+*Lips*: Normal，Pale，Red，Dark，Purple
 
-***Lips***: Normal，Pale，Red，Dark，Purple
-
-#### data preprocess
+## data preprocess
 
 Resize (224x224).
 
