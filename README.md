@@ -4,15 +4,15 @@
 
 #### data collect
 
-收集包含各种眼睛颜色的图像数据集，并将图像标记为 Normal、Blue、Brown、Gray 和 Yellow。
+*black*： normal，Blue，Brown，Gray，Yellow
 
 #### data preprocess
 
-调整图像大小（例如，224x224）。
+Resize (224x224).
 
-进行数据增强（旋转、平移、翻转等）。
+data augmentation (rotation, translation, flipping).
 
-标准化图像数据。
+Normalize.
 
 ## classification
 
