@@ -1,6 +1,6 @@
 # nn_faceR
 
-## data collect
+## dataset
 
 *black*： normal，Blue，Brown，Gray，Yellow
 
